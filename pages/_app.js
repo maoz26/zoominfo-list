@@ -36,7 +36,7 @@ class MyApp extends App {
     const {Component, pageProps, reduxStore} = this.props;
     return <>
       <Head>
-        <title>מערכת חדשה</title>
+        <title>{'zoominfo'}</title>
       </Head>
       <Provider store={reduxStore}>
         <StylesProvider jss={jss}>
