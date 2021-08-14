@@ -9,6 +9,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:2020](http://localhost:2021) with your browser to see the result.
+Open [http://localhost:2020](http://localhost:2020) with your browser to see the result.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:2021/api/v1](http://localhost:3000/api/v1).
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:2020/api/v1](http://localhost:2020/api/v1).
